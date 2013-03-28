@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Application -->
+    <string name="app_name">Android Invaders</string>
+    <string name="menu_settings">Settings</string>
+    
+    <!-- SplashActivity -->
+    <string name="ivSplash">Its dangerous to go alone. Take this.</string>
+    
+    <!-- MainActivity -->
+    <string name="tvMainTitle">Android Invaders</string>
+    <string name="btnMainStart">Start Game</string>
+    <string name="btnMainOptions">Options</string>
+    <string name="btnMainExit">Exit</string>
+    
+    <!-- OptionsActivity -->
+    <string name="tvOptionsWaves">Difficulty</string>
+    <string name="tvOptionsWavesSet">Waves Per Round: </string>
+    <string name="cbOptionsDisplayFPS">Display FPS</string>
+    
+</resources>
