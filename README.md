@@ -1,4 +1,4 @@
 androidInvaders
 ===============
 
-A port of Space Invaders for Android
+_A port of Space Invaders for Android_
